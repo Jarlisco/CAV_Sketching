@@ -10,9 +10,6 @@
   <p align="center">
     Using image processing to sketchify images.
     <br />
-    <a href="https://github.com/Jarlisco/CAV_Sketching"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
     <a href="https://github.com/Jarlisco/CAV_Sketching">View Demo</a>
     ·
     <a href="https://github.com/Jarlisco/CAV_Sketching/issues">Report Bug</a>
