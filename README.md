@@ -10,8 +10,6 @@
   <p align="center">
     Using image processing to sketchify images.
     <br />
-    <a href="https://github.com/Jarlisco/CAV_Sketching">View Demo</a>
-    ·
     <a href="https://github.com/Jarlisco/CAV_Sketching/issues">Report Bug</a>
     ·
     <a href="https://github.com/Jarlisco/CAV_Sketching/issues">Request Feature</a>
@@ -29,6 +27,7 @@ INCOMING DESCRIPTION
 ### Built With
 
 * python3
+* pipenv
 * OpenCV
 
 
