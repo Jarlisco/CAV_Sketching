@@ -1,0 +1,15 @@
+-> Pour créer un environnement virtuel à ce projet
+-> Et installer tous les packages (si il y a déjà un Pipfile)
+pipenv install
+
+-> Pour ajouter un package a l'env virtuel
+pipenv install <package>
+
+-> Pour activer un shell dédié à cet l'env virtuel du projet
+pipenv shell
+
+-> Pour quitter
+exit 
+
+-> Une fois le shell activer, pour excuter un fichier python
+python <filename>
