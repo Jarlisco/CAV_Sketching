@@ -7,6 +7,8 @@ name = "pypi"
 opencv-python = "*"
 pylint = "*"
 scikit-image = "*"
+matplotlib = "*"
+scipy = "*"
 
 [dev-packages]
 
